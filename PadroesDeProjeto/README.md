@@ -6,7 +6,8 @@ PROJETO FINAL DA DISCIPLINA DE PADROES DE PROJETO SOBRE UM SISTEMA IMPLEMENTADO 
 
 1. GIT e GITHUB:
 
-( Material baseado em minicurso ministrado por Renato Fogaça
+( Material baseado em minicurso: http://renato.pro.br/minicursogit/#/
+ministrado por Renato Fogaça
 email: fogaca.renato@gmail.com
 github: github.com/fogaca )
 
@@ -42,6 +43,10 @@ github: github.com/fogaca )
 
 
 1.4 comandos principais:
+	
+	/* para ver historicos de alteraçoes */
+
+	git log
 
 	/* para verificar se tem algo para adicionar ou comitar, verefique o status */
 
@@ -55,6 +60,10 @@ github: github.com/fogaca )
 
 	link para ver os comandos: http://renato.pro.br/minicursogit/#/8/2
 
-	/* comandos para colocar as modificaçoes do seu computador para o github */
+	/* comandos para upload e download do projeto */
 
 	link para ver os comandos: http://renato.pro.br/minicursogit/#/9/6
+
+	/* caso esteja com dificuldades para comitar tem a possibilidade de forçar o commit, lembrando que commitando no master voce vai alterar o fluxo principal do projeto */
+
+	git push -f origin master.
