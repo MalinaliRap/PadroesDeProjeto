@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProjectTreeState projectID="6uqf._qGAqACCwMU" projectPath="C:\Users\Mali\Documents\NetBeansProjects\bibliotecaUTFPR\vpproject\bibliotecaDigital.vpp">
+	<TreeState name="ModelRepository" viewX="0" viewY="0">
+		<ExpandedPath>ModelRepository</ExpandedPath>
+	</TreeState>
+	<TreeState name="DiagramNavigator" viewX="0" viewY="0">
+		<ExpandedPath>DiagramNavigator</ExpandedPath>
+		<ExpandedPath>DiagramNavigator,UML Diagrams</ExpandedPath>
+		<ExpandedPath>ClassDiagram</ExpandedPath>
+		<ExpandedPath>ClassDiagram,jp.f._qGAqACCwTY</ExpandedPath>
+		<ExpandedPath>DiagramNavigator,Requirements Capturing</ExpandedPath>
+		<ExpandedPath>DiagramNavigator,Database Modeling</ExpandedPath>
+		<ExpandedPath>DiagramNavigator,Business Process Modeling</ExpandedPath>
+		<ExpandedPath>DiagramNavigator,SysML</ExpandedPath>
+		<ExpandedPath>DiagramNavigator,Enterprise Modeling</ExpandedPath>
+		<ExpandedPath>DiagramNavigator,Impact Analysis</ExpandedPath>
+		<ExpandedPath>DiagramNavigator,Others</ExpandedPath>
+		<SelectedPath>ClassDiagram,W8Rf._qGAqACCwTf</SelectedPath>
+	</TreeState>
+	<TreeState name="ClassBrowser" viewX="0" viewY="216">
+		<ExpandedPath>ClassBrowser</ExpandedPath>
+		<ExpandedPath>ClassBrowser,ClassBrowser</ExpandedPath>
+		<ExpandedPath>ClassBrowser,ClassBrowser,Aa.f._qGAqACCwTK</ExpandedPath>
+		<ExpandedPath>ClassBrowser,Java Round-trip</ExpandedPath>
+		<ExpandedPath>ClassBrowser,Java Round-trip,C:\Users\Mali\Documents\NetBeansProjects\bibliotecaUTFPR</ExpandedPath>
+		<ExpandedPath>ClassBrowser,Java Round-trip,C:\Users\Mali\Documents\NetBeansProjects\bibliotecaUTFPR,src</ExpandedPath>
+		<SelectedPath>ClassBrowser,Java Round-trip,C:\Users\Mali\Documents\NetBeansProjects\bibliotecaUTFPR</SelectedPath>
+	</TreeState>
+	<TreeState name="LogicalView" viewX="0" viewY="0"/>
+</ProjectTreeState>
